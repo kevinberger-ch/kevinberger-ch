@@ -1,5 +1,5 @@
 ### Hi i'm Kevin
-I'm a prospective software developer who does things :)
+I'm a apprentice software developer who does things :)
 
 #### About me 
 - 🕷️ Creating bugs since i'm 14 
